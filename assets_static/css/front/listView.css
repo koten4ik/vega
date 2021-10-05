@@ -1,0 +1,64 @@
+.list-view-loading {
+    background: url("/assets_static/images/front/loading.gif") no-repeat scroll 0 0 transparent;
+}
+.list-view .summary {
+    margin: 0 0 5px;
+    text-align: right;
+}
+.list-view .sorter {
+    margin: 0 0 5px;
+    text-align: right;
+}
+.list-view .sorter a{ }
+
+.list-view .items{ clear: both;}
+
+.list-view .pager {
+    margin: 5px 0 0;
+    text-align: right;
+}
+
+.list-view .sorter ul {
+    display: inline;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.list-view .sorter li {
+    display: inline;
+    margin: 0 0 0 5px;
+    padding: 0;
+}
+.list-view .sorter a.asc {
+    background: url("/assets_static/images/front/up.gif") no-repeat scroll right center transparent;
+    padding-right: 10px;
+}
+.list-view .sorter a.desc {
+    background: url("/assets_static/images/front/down.gif") no-repeat scroll right center transparent;
+    padding-right: 10px;
+}
+
+
+.myPager{ text-align: right; padding-top: 10px;}
+
+.myPager ul.yiiPager a:link, .myPager ul.yiiPager a:visited
+{
+    border: 1px solid gray ;
+    color: #414141;
+    border-radius: 2px;
+    vertical-align: 1px;
+    /*color: #FFA500;
+    background: #454545;*/
+}
+
+.myPager ul.yiiPager .selected a
+{
+	background:#aaa;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.myPager ul.yiiPager .hidden a {
+    color: #888888;
+}
+

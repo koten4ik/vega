@@ -1,0 +1,177 @@
+
+.button-column .delete{ margin-left: 5px;}
+.myPager{ text-align: right; padding-top: 10px;}
+
+.myPager ul.yiiPager a:link, .myPager ul.yiiPager a:visited
+{
+    border: 1px solid gray ;
+    color: #414141;
+    border-radius: 2px;
+    vertical-align: 1px;
+    /*color: #FFA500;
+    background: #454545;*/
+}
+
+.myPager ul.yiiPager .selected a
+{
+	background:#ff9100;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.myPager ul.yiiPager .hidden a {
+    color: #888888;
+}
+
+
+.grid-view table.items tr.even
+{
+	background: #F8F8F8;
+}
+
+.grid-view table.items tr.odd
+{
+	background: #fdecd6;
+}
+
+.grid-view table.items tr.selected
+{
+	background: #ECFBD4;
+}
+
+.grid-view table.items tr:hover
+{
+	background: #ECFBD4;
+}
+
+
+
+
+
+
+.grid-view-loading
+{
+	background:url(loading.gif) no-repeat;
+}
+
+.grid-view
+{
+	/*padding: 15px 0;*/
+}
+
+.grid-view table.items
+{
+	background: white;
+	//border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #bbbbbb;
+    border-radius: 3px;
+}
+
+.grid-view table.items th, .grid-view table.items td
+{
+	font-size: 0.9em;
+	border: 1px #bbbbbb solid;
+	padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.grid-view table.items  td.checkbox-column,
+.grid-view table.items  th.checkbox-column
+{
+    padding:0px;
+    text-align: center;
+}
+.grid-view table.items  td.button-column,
+.grid-view table.items  th.button-column
+{
+    padding:0px;
+    text-align: center;
+}
+
+.grid-view table.items td{
+    vertical-align: middle;
+}
+
+.grid-view table.items th
+{
+	color: white;
+	background: #555;
+    /*box-shadow: inset #444 0px -18px 10px -10px;*/
+	text-align: center;
+    vertical-align: middle;
+}
+
+.grid-view table.items th a
+{
+	color: #EEE;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.grid-view table.items th a:hover
+{
+	color: #FFF;
+}
+
+.grid-view table.items th a.asc
+{
+	background:url(up.gif) right center no-repeat;
+	padding-right: 10px;
+}
+
+.grid-view table.items th a.desc
+{
+	background:url(down.gif) right center no-repeat;
+	padding-right: 10px;
+}
+
+
+.grid-view .link-column img
+{
+	border: 0;
+}
+
+.grid-view .button-column
+{
+	text-align: center;
+	width: 60px;
+}
+
+.grid-view .button-column img
+{
+	border: 0;
+}
+
+.grid-view .checkbox-column
+{
+	width: 15px;
+}
+
+.grid-view .summary
+{
+	margin: 0 0 5px 0;
+	text-align: right;
+}
+
+.grid-view .pager
+{
+	margin: 5px 0 0 0;
+	text-align: right;
+}
+
+.grid-view .empty
+{
+	font-style: italic;
+}
+
+.grid-view .filters input,
+.grid-view .filters select
+{
+	width: 100%;
+	border: 1px solid #ccc;
+}
+
+.grid-view .filters{ background: #e1e1e1}

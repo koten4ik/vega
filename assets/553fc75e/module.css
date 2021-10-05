@@ -1,0 +1,28 @@
+.grid-view .button-column img { margin: 3px; }
+.grid-view .button-column { text-align: center;	width: 85px; }
+
+
+#user-grid #check_tr{ padding: 0px; width: 30px;}
+#user-grid .check_td{ padding: 0px; text-align: center; }
+
+#user-grid #id_tr{ width: 30px; }
+#user-grid .id_td{  }
+
+#user-grid #username_tr{  }
+#user-grid .username_td{  }
+
+#user-grid #email_tr{ width: 150px; }
+#user-grid .email_td_td{  }
+
+
+#user-grid #status_tr{ width: 100px; }
+#user-grid .status_td{  }
+
+#user-grid #role_tr{ width: 125px; }
+#user-grid .role_td{  }
+
+.form td:first-child{  text-align: right; padding-right: 10px; vertical-align: middle;}
+
+
+
+

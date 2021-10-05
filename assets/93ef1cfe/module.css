@@ -1,0 +1,27 @@
+
+.grid-view .button-column img { margin: 3px; }
+.grid-view .button-column { text-align: center;	width: auto; }
+
+#igallery-item-grid #check_tr{ padding: 0px; width: 30px; }
+#igallery-item-grid .check_td{ padding: 0px; text-align: center; }
+
+#igallery-item-grid #title_tr{ }
+#igallery-item-grid .title_td{ }
+
+#igallery-item-grid #published_tr{ width: 120px; padding: 0 }
+#igallery-item-grid .published_td{ text-align: center; }
+
+#igallery-item-grid #cat_tr{ width:200px; }
+#igallery-item-grid .cat_td{ }
+#igallery-item-grid #cat_name_filter{ display:inline; width:176px; }
+
+#igallery-item-grid #cdate_tr{ width: 94px;}
+#igallery-item-grid .cdate_td{ text-align: center; }
+#igallery-item-grid #ContentItem_cdate{ display:inline; width:70px; }
+
+#igallery-item-grid #author_tr{ width: 120px; }
+#igallery-item-grid .author_td{ }
+
+#igallery-item-grid #year_tr{ width: 120px; }
+#igallery-item-grid .year_td{ text-align: center; }
+

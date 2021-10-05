@@ -1,0 +1,21 @@
+
+.grid-view .button-column img { margin: 3px; }
+.grid-view .button-column { text-align: center;	width: 85px; }
+
+
+#contact-grid #check_tr{ padding: 0px; width: 30px;}
+#contact-grid .check_td{ padding: 0px; text-align: center; }
+
+#contact-grid #subject_tr{  }
+#contact-grid .subject_td{  }
+
+
+#contact-grid #name_tr{ width: 140px; }
+#contact-grid .name_td{  }
+
+#contact-grid #email_tr{ width: 150px; }
+#contact-grid .email_td{  }
+
+table.detail-view .view_message td { padding: 20px;}
+
+

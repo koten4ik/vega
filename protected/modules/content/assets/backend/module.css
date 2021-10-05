@@ -1,0 +1,33 @@
+
+
+.grid-view .button-column img { margin: 3px; }
+.grid-view .button-column { text-align: center;	width: 85px; }
+
+.grid-view #check_tr{ padding: 0px; width: 30px; }
+.grid-view .check_td{ padding: 0px; text-align: center; }
+
+.grid-view #id_tr{width: 30px;}
+.grid-view .id_td{ }
+
+.grid-view #title_tr{ }
+.grid-view .title_td{ }
+
+.grid-view #published_tr{ width: 100px; padding: 0 }
+.grid-view .published_td{ text-align: center; }
+
+.grid-view #cat_tr{ width:200px; }
+.grid-view .cat_td{ }
+.grid-view #cat_name_filter{ display:inline; width:176px; }
+
+
+.grid-view #author_tr{ width: 120px; }
+.grid-view .author_td{ }
+
+.grid-view #hit_tr{ width: 10px; }
+.grid-view .hit_td{ text-align: center; }
+
+
+#content-page-grid #check_tr{ padding: 0px; }
+#content-page-grid .check_td{ padding: 0px; text-align: center; }
+#content-page-grid #published_tr{ width: 120px; padding: 0 }
+#content-page-grid .published_td{ text-align: center; }

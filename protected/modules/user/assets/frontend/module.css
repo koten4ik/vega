@@ -1,0 +1,12 @@
+
+.success
+{
+    padding: 10px;
+    border: 1px solid;
+    color: green;
+}
+
+#profile-form input,
+#profile-form select
+{ width: 300px;}
+

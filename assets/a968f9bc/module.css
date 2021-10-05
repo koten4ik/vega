@@ -1,0 +1,21 @@
+
+.comments_wrap{ margin-top: 10px; padding: 10px; border: 1px solid #999; background: #ccc}
+.comments_title{ font-weight: bold; margin-bottom: 10px;}
+.comment_block{ border-top: 0px solid #eee; padding: 10px 0;}
+.comments_input{width: 100%;}
+.comment_butt{margin-top: 5px;}
+.comment_user{font-weight: bold; color: #555}
+.comment_time{font-size:90%; color: #555;}
+.commment_text{margin-top: 5px;}
+.comments_login{margin: 10px; font-weight: bold;}
+.comment_loading{margin-left: 5px; vertical-align: -3px;display: none;}
+
+.comment_leaf{margin-left: 30px; border-left: 0px solid #aaa}
+.comment_leaf.level0{margin-left: 0px;}
+
+.comment_reply_butt{ padding-top: 5px; color: #999;}
+
+#sub_comments_form{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
